@@ -72,6 +72,12 @@ Quantity Sold = CALCULATE(SUM('Fact Table'[Units Sold]),ALL('Date Table 1'),USER
 - **Power Query Editor** for data transformation and cleaning.
 - **DAX (Data Analysis Expressions)** for creating calculated metrics and measures.
 
+### Snapshots of dashboards
+![snap_1](https://github.com/JephHarshit/Sales_Data_Analysis/blob/main/Top_Bottom.jpg)
+![snap_2](https://github.com/JephHarshit/Sales_Data_Analysis/blob/main/overview.jpg)
+![snap_3](https://github.com/JephHarshit/Sales_Data_Analysis/blob/main/sales_profit_quantity_varition_with_time.jpg)
+![snap_4](https://github.com/JephHarshit/Sales_Data_Analysis/blob/main/tabular%20visual.jpg)
+![snap_5](https://github.com/JephHarshit/Sales_Data_Analysis/blob/main/varition%20in%20sales%20and%20profit%20with%20time.jpg)
 
 ## Key Insights from the Dashboard
 
